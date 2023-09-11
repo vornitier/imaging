@@ -20,6 +20,12 @@ Repo for image manipulation in Python using Google Colab.
 
 - Open Google Colab. Upload an image. Run the notebook.
 
+##  Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
 
 ## License
-[MIT](license.goes.here)
+[MIT](https://github.com/vornitier/imaging/blob/main/LICENSE)
